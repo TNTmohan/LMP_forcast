@@ -10,4 +10,3 @@
     * <strong>svr.png </strong>SVR模型的预测曲线
 * <strong>LMP_forcast.ipynb</strong> 项目notebook
 * <strong>README.md</strong> 我自己^_^
-* <strong>短期节点电价预测报告.docx</strong>
